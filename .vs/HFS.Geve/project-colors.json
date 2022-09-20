@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "59bf1c25-d7f1-4eae-ad33-40f927426169": {
+      "ProjectGuid": "59bf1c25-d7f1-4eae-ad33-40f927426169",
+      "DisplayName": "HFS.GeVe.Domain",
+      "ColorIndex": 0
+    },
+    "7880377a-a401-4c7c-9946-bdd5f2c33c59": {
+      "ProjectGuid": "7880377a-a401-4c7c-9946-bdd5f2c33c59",
+      "DisplayName": "HFS.GeVe.Infrastructure",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
