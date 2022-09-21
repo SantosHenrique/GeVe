@@ -4,7 +4,6 @@ namespace HFS.GeVe.Domain.Entities;
 
 public class Vaga : BaseEntity
 {
-    public string Codigo { get; init; } = string.Empty;
-    public Guid AndarId { get; init; }
+    public Guid ApartamentoId { get; init; }
     public decimal? ValorHora { get; init; }
 }
